@@ -1,0 +1,64 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/fig01.gif" filesize="27140" filedate="2007-09-22 19:40:57" width="223px" height="720px">
+</image>
+<image path="images/fig02.gif" filesize="56671" filedate="2007-09-22 19:44:47" width="386px" height="720px">
+</image>
+<image path="images/fig03.jpg" filesize="75592" filedate="2007-09-22 19:48:37" width="443px" height="720px">
+</image>
+<image path="images/fig04.jpg" filesize="72771" filedate="2007-09-22 20:09:55" width="583px" height="480px">
+</image>
+<image path="images/fig05.jpg" filesize="65770" filedate="2007-09-22 20:14:37" width="583px" height="450px">
+</image>
+<image path="images/fig06.gif" filesize="14902" filedate="2007-09-22 20:21:01" width="314px" height="431px">
+</image>
+<image path="images/fig07.jpg" filesize="62505" filedate="2007-09-22 20:24:06" width="421px" height="500px">
+</image>
+<image path="images/fig08.jpg" filesize="67499" filedate="2007-09-22 20:27:17" width="720px" height="523px">
+</image>
+<image path="images/fig09.gif" filesize="9338" filedate="2007-09-22 21:58:45" width="202px" height="299px">
+</image>
+<image path="images/fig10.jpg" filesize="18004" filedate="2007-09-22 22:01:01" width="332px" height="207px">
+</image>
+<image path="images/fig11.gif" filesize="12453" filedate="2007-09-22 22:03:19" width="256px" height="290px">
+</image>
+<image path="images/fig12.gif" filesize="33082" filedate="2007-09-22 21:52:38" width="458px" height="720px">
+</image>
+<image path="images/fig13.gif" filesize="79186" filedate="2007-09-22 21:56:26" width="511px" height="627px">
+</image>
+<image path="images/front.jpg" filesize="99969" filedate="2007-09-22 19:36:43" width="548px" height="720px">
+</image>
+<image path="images/plaat-1.jpg" filesize="32569" filedate="2007-10-01 16:29:48" width="349px" height="720px">
+</image>
+<image path="images/plaat-1h.jpg" filesize="469112" filedate="2007-10-01 16:30:50" width="1491px" height="3076px">
+</image>
+<image path="images/plaat-2.jpg" filesize="46356" filedate="2007-10-01 16:31:45" width="348px" height="720px">
+</image>
+<image path="images/plaat-2h.jpg" filesize="740966" filedate="2007-10-01 16:32:35" width="1504px" height="3106px">
+</image>
+<image path="images/plaat-3.jpg" filesize="53963" filedate="2007-10-01 16:33:17" width="369px" height="720px">
+</image>
+<image path="images/plaat-3h.jpg" filesize="661084" filedate="2007-10-01 16:33:52" width="1526px" height="2980px">
+</image>
+<image path="images/plaat-4.jpg" filesize="61604" filedate="2007-10-01 16:34:27" width="357px" height="720px">
+</image>
+<image path="images/plaat-4h.jpg" filesize="812450" filedate="2007-10-01 16:34:58" width="1472px" height="2966px">
+</image>
+<image path="images/plaat-5.jpg" filesize="47431" filedate="2007-10-01 17:36:11" width="360px" height="720px">
+</image>
+<image path="images/plaat-5a.jpg" filesize="58013" filedate="2007-10-01 17:53:35" width="457px" height="720px">
+</image>
+<image path="images/plaat-5ah.jpg" filesize="651682" filedate="2007-10-01 17:53:06" width="1874px" height="2955px">
+</image>
+<image path="images/plaat-5b.jpg" filesize="56306" filedate="2007-10-01 17:39:34" width="457px" height="720px">
+</image>
+<image path="images/plaat-5bh.jpg" filesize="655252" filedate="2007-10-01 17:39:11" width="1874px" height="2955px">
+</image>
+<image path="images/plaat-5h.jpg" filesize="528583" filedate="2007-10-01 17:35:30" width="1479px" height="2955px">
+</image>
+</images>
